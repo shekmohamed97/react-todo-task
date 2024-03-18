@@ -1,0 +1,107 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 33%;
+    margin-right: 33%;
+    border-radius: 10px;
+    padding-left: 11.5%;
+    padding-right: 11.5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+textarea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 33%;
+    margin-right: 33%;
+    border-radius: 10px;
+    padding-left: 11.5%;
+    padding-right: 11.5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#options{
+    margin-left: 33%;
+    margin-right: 33%;
+    border-radius: 10px;
+    padding-left: 13%;
+    padding-right: 14.5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#addTodo{
+    margin-left: 33%;
+    margin-right: 33%;
+    border-radius: 10px;
+    padding-left: 15%;
+    padding-right: 17.25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.options2{
+    float:right;
+    padding: .25%;
+    border-radius: 10px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+} 
+.todo-card{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px; 
+    background-color:rgb(211, 172, 111) ;
+    width: 21vw;
+    border-radius: 10px;
+    height: 40vh;
+}
+h4{
+    color: whitesmoke;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+h3{
+    color: whitesmoke;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+p{
+    color: whitesmoke;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+.toggle{
+    margin-left: 60px;
+    padding-left: 13%;
+    padding-right: 15%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+}
+.Ed{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+    float: right;
+}
+#edit{
+    background-color: rgb(249, 241, 85);
+}
+#delete{
+    background-color: rgb(243, 84, 84);
+}
